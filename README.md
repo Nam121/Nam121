@@ -15,6 +15,7 @@
 - 🔧Programming Languages: C, Java, CPython
 - 📊Data Analysis 
 - ✨Python Libraries: Pandas,numpy
+- Tools - Git,GitHub,GitLab,WSL
 - 🌱 I’m currently learning  Javascript
 
 
@@ -39,7 +40,7 @@
  ## Find me around the web 🌎
 - 🤝[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white&link=<YOUR_LINKEDIN_PROFILE_URL>)](<https://www.linkedin.com/in/namrata-s-76633b1aa/>)
 - 📬[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=email&logoColor=white&link=mailto:<YOUR_EMAIL_ADDRESS>)](mailto:<namratasalve2209@gmail.com>)
-- Collection of Codes!🌱-[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat-square&logo=gitlab&logoColor=white&link=<YOUR_GITLAB_PROFILE_URL>)](<https://gitlab.com/emerald7/namrata-salve/bootcamp>)
+- Codes!🌱-[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat-square&logo=gitlab&logoColor=white&link=<YOUR_GITLAB_PROFILE_URL>)](<https://gitlab.com/emerald7/namrata-salve/bootcamp>)
   
 
 <!--

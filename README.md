@@ -13,7 +13,7 @@
 
 - 🔧Programming Languages: C, Java, CPython
 - 📊Data Analysis 
-- Python Libraries: Pandas,numpy
+- ✨Python Libraries: Pandas,numpy
 - 🌱 I’m currently learning  Javascript
 
   ## Notable Projects

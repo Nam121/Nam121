@@ -2,8 +2,9 @@
 
 ![heyy](https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
 
+🌱Perpetual quick learner|🌟Persistence
 
-# About Me
+# 🎓About Me
   I am a <strong>2023 Computer Science Engineering</strong> graduate with a knack for Java programming. With hands-on experience and a proactive approach, I'm eager to contribute to innovative projects in Java development.
 
 
@@ -36,10 +37,11 @@
 - Executed a comprehensive spatial analysis to discern trends and patterns in restaurant locations and ratings.
 
  ## Find me around the web 🌎
-- Email: namratasalve2209@gmail.com
-- LinkedIn:[ LinkedIn Profile](https://www.linkedin.com/in/namrata-s-76633b1aa/)
-- GitLab:[GitLab](https://gitlab.com/emerald7/namrata-salve/bootcamp)
+- 🤝[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white&link=<YOUR_LINKEDIN_PROFILE_URL>)](<https://www.linkedin.com/in/namrata-s-76633b1aa/>)
+- 📬[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=email&logoColor=white&link=mailto:<YOUR_EMAIL_ADDRESS>)](mailto:<namratasalve2209@gmail.com>)
+- Collection of Codes!🌱-[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat-square&logo=gitlab&logoColor=white&link=<YOUR_GITLAB_PROFILE_URL>)](<https://gitlab.com/emerald7/namrata-salve/bootcamp>)
   
+
 <!--
 **Nam121/Nam121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

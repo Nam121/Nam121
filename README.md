@@ -16,7 +16,7 @@
 - ✨Python Libraries: Pandas,numpy
 - 🌱 I’m currently learning  Javascript
 
-  ## Notable Projects
+## Notable Projects
 
 **🌟Suspicious Activity Prediction**
 

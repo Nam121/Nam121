@@ -1,6 +1,6 @@
 ### Hi there I'm Namrata👋
 
-![Image Alt Text](https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
+![heyy](https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
 
 
 # About Me

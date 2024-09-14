@@ -13,10 +13,11 @@
 
 
 - 🔧Programming Languages: C, Java, CPython
-- 📊Data Analysis 
+- 📊Framework: Spring Boot,Spring REST,Spring Core
+- Database: MongoDB, MySQL
 - ✨Python Libraries: Pandas,numpy
 - Tools - Git,GitHub,GitLab,WSL
-- 🌱 I’m currently learning  Javascript
+- 🌱Certification: Java Full Stack React
 
 
 ## Notable Projects
